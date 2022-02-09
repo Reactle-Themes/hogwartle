@@ -64,7 +64,7 @@
   }
   100% {
     transform: rotateX(180deg);
-    background-color: theme('colors.yellow.40');
+    background-color: theme('colors.yellow.400');
     border-color: theme('colors.yellow.400');
   }
 }
